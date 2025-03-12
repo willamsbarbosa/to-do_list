@@ -30,13 +30,13 @@ Aqui está como o projeto funciona:
 
 ## Estrutura do Projeto
 <pre>
-todo-list
+projeto
     ├──index.html
     ├──style.css 
     └──script.js
 </pre>
 
-- todo-list: Pasta do Projeto.
+- toDoList: Pasta do Projeto.
 - index.html: Arquivo principal da aplicação.
 - style.css: Estilos da interface.
 - script.js: Lógica da aplicação.
