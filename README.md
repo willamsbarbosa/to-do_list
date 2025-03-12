@@ -1,6 +1,6 @@
 # To-Do List
 
-## Objetivo
+## Objetivos
 Uma aplicação simples de lista de tarefas criada com HTML, CSS e JavaScript. 
 
 Projeto desenvolvido para exercitar JavaScript, gerenciamento de versões pelo Git e criação de testes. 
@@ -23,14 +23,20 @@ Aqui está como o projeto funciona:
 
 2. Abra o arquivo index.html em um navegador (ex.: Google Chrome).
    
-Obs.: Nenhum software adicional é necessário, pois o projeto roda diretamente no navegador!
-
 ## Tecnologias Utilizadas
 - HTML: Estrutura da página.
 - CSS: Estilização básica.
 - JavaScript: Lógica para adicionar, concluir e excluir tarefas.
 
 ## Estrutura do Projeto
+<pre>
+todo-list
+    ├──index.html
+    ├──style.css 
+    └──script.js
+</pre>
+
+- todo-list: Pasta do Projeto.
 - index.html: Arquivo principal da aplicação.
 - style.css: Estilos da interface.
 - script.js: Lógica da aplicação.
