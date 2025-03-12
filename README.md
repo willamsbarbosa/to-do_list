@@ -30,7 +30,7 @@ Aqui está como o projeto funciona:
 
 ## Estrutura do Projeto
 <pre>
-projeto
+toDoList
     ├──index.html
     ├──style.css 
     └──script.js
